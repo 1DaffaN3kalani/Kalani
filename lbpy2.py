@@ -10,6 +10,7 @@ import wikipedia
 import html5lib,shutil
 import time,random,sys,json,codecs,threading,glob,urllib,urllib2,urllib3,re,ast,os,subprocess,requests,tempfile
 #KALAU ADA YANG KURANG INSTALL ..JANGAN MANJA
+#😎
 
 satpam = LIBERATION.LINE() #(Gunanya Supaya Akun Utama Ke Kick bisa Terima Undangan dari Bot Otomatis)
 satpam.login(token="")
